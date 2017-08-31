@@ -12,23 +12,21 @@ html{
 body{
 	/*margin-top: -75px;*//*因为抠出来的图顶端有空，此处修正一下*/
 /*	background-color: #111;
-*/	background:url(../img/index-back.jpg);
+*/	background:url(../img/index-back.png) no-repeat;
     background-size: 100%;
     }
 
 #mainPage{
 /*	overflow: hidden;
-*/	/*background:url(../img/index-back.png) center  no-repeat ;*/
 	margin: 0 auto;
 /*	background-color: #bfbfbf;
 *//*	width: 1080px;
 	height: 1920px;
 	position: relative;*/
 	width: 100%;
-	height:100%;
 }
 #logo{
-	margin:60px auto;
+	margin:auto;
 	width:100%;
 	text-align: center;
 }
